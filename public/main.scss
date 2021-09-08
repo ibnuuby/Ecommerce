@@ -1,0 +1,15 @@
+$body-bg:#ece8e7;
+// $body-color: #111;
+
+$theme-colors: (
+    "primary": #ff8901,
+    "secondary": #000000,
+    "success": #3caea3,
+    "danger": #ff7582
+  );
+.navbar-brand {
+    font-family: 'Arial Black';
+    font-size: 20px;
+}
+// Import all bootstrap
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
