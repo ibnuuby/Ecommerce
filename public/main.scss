@@ -11,5 +11,10 @@ $theme-colors: (
     font-family: 'Arial Black';
     font-size: 20px;
 }
+
+body{
+  font-family: 'arial-reguler';
+}
+
 // Import all bootstrap
 @import "./node_modules/bootstrap/scss/bootstrap.scss";

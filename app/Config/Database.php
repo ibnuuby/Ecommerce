@@ -35,7 +35,7 @@ class Database extends Config
         'hostname' => 'localhost',
         'username' => '',
         'password' => '',
-        'database' => '',
+        'database' => 'db_ecommerce',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,
